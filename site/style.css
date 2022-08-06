@@ -1,0 +1,36 @@
+h1 {
+    color: darkcyan;
+    text-align: center;
+
+}
+p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+p.quote {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    background-color: beige;
+}
+#title {
+    font-size: 36px;
+}
+.center{
+    align-content: center;
+}
+a.red_button{
+    background-color: red;
+    color: black;
+}
+a.red_button:hover{
+    font-size: larger;
+    color: black;
+}
+a.red_button:active{
+    font-size: larger;
+    color: black;
+    background-color: rgb(255, 192, 197);
+}
